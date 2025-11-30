@@ -4,15 +4,16 @@
 Алгоритмы Сортировки(Пузырьковая сортировка, Сортировка выбором, Сортировка вставками,  Быстрая сортировка)
 Пивоварчик Е.А.
 Примеры игр это: 
-1) Human Resource Machine и 7 Billion Humans. О чем: Вы играете за офисного работника, который должен автоматизировать свою задачу, составляя последовательности команд (визуальное программирование). Чему учит: Основам алгоритмов, циклам, условиям, а в sequel — даже многопоточности. https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHuman_Resource_Machine https://en.wikipedia.org/wiki/7_Billion_Humans
 
-2)Screeps. О чем: MMO-стратегия, где вы управляете своей колонией "крипов" (creeps) с помощью реального JavaScript-кода. Чему учит: JavaScript, управлению ресурсами, архитектуре кода, долгосрочному планированию. https://ru.wikipedia.org/wiki/Screeps
+ 1) Human Resource Machine и 7 Billion Humans. О чем: Вы играете за офисного работника, который должен автоматизировать свою задачу, составляя последовательности команд (визуальное программирование). Чему учит: Основам алгоритмов, циклам, условиям, а в sequel — даже многопоточности. https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHuman_Resource_Machine https://en.wikipedia.org/wiki/7_Billion_Humans
 
-3)While True: learn(). О чем: Вы играете за программиста, который пытается понять, о чем думает его кошка, используя визуальное программирование, основанное на узлах и связях (нодах). Чему учит: Принципам машинного обучения и работы с данными в упрощенной, игровой форме. https://medium.com/@kanghuaq/game-critique-while-true-learn-192b788cc64f
+ 2)Screeps. О чем: MMO-стратегия, где вы управляете своей колонией "крипов" (creeps) с помощью реального JavaScript-кода. Чему учит: JavaScript, управлению ресурсами, архитектуре кода, долгосрочному планированию. https://ru.wikipedia.org/wiki/Screeps
 
-4)CodeCombat. О чем: Браузерная RPG, где для управления персонажем вы пишете реальный код (Python, JavaScript и др.). Чему учит: Синтаксису и логике выбранного языка в очень наглядной форме. https://shahbajrangrej4.medium.com/codecombat-a-coding-game-to-learn-program-in-python-65eb8b9b909f?source=post_internal_links---------3----------------------------
+ 3)While True: learn(). О чем: Вы играете за программиста, который пытается понять, о чем думает его кошка, используя визуальное программирование, основанное на узлах и связях (нодах). Чему учит: Принципам машинного обучения и работы с данными в упрощенной, игровой форме. https://medium.com/@kanghuaq/game-critique-while-true-learn-192b788cc64f
 
-5)Bitburner. О чем: Инкрементальная игра (idle-game) о хакере, где весь геймплей построен на написании скриптов на JavaScript (или его подобии). Чему учит: JavaScript, Node.js, автоматизации процессов, написанию эффективного кода. https://medium.com/@tigenzero/bitburner-starting-strategy-88c90f5f4a31
+ 4)CodeCombat. О чем: Браузерная RPG, где для управления персонажем вы пишете реальный код (Python, JavaScript и др.). Чему учит: Синтаксису и логике выбранного языка в очень наглядной форме. https://shahbajrangrej4.medium.com/codecombat-a-coding-game-to-learn-program-in-python-65eb8b9b909f?source=post_internal_links---------3----------------------------
+
+ 5)Bitburner. О чем: Инкрементальная игра (idle-game) о хакере, где весь геймплей построен на написании скриптов на JavaScript (или его подобии). Чему учит: JavaScript, Node.js, автоматизации процессов, написанию эффективного кода. https://medium.com/@tigenzero/bitburner-starting-strategy-88c90f5f4a31
 
 
 
